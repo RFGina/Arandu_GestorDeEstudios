@@ -12,7 +12,7 @@ Autenticación de usuarios - Registro y login seguro
 
 Diseño responsive simple - Funciona en todos los dispositivos
 
-🛠️ Tecnologías
+Tecnologías
 Backend
 Django 5.2+ - Framework principal
 
@@ -35,7 +35,7 @@ Axios - Cliente HTTP
 
 Vite - Build tool y dev server
 
-📦 Instalación
+Instalación
 Prerrequisitos
 
 Python 3.13.2+
